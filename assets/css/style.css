@@ -1,0 +1,100 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.red {
+    color: red;
+}
+
+.mt-3 {
+    margin-top: 1000px !important;
+}
+
+
+/* [class*=col] {
+    background-color: darkturquoise;
+    border: 1px solid;
+} */
+
+
+/* .solar-system {
+    height: 100vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    position: relative;
+}
+
+.sun {
+    position: absolute;
+    width: 200px;
+    height: 200px;
+    background: linear-gradient(to right, #ffce96, #dd9002);
+    border-radius: 50%;
+    animation: sun 3s linear infinite;
+}
+
+.mercury {
+    position: absolute;
+    width: 70px;
+    height: 70px;
+    background-color: rgb(184, 184, 184);
+    border-radius: 50%;
+    animation: mercury 3s infinite linear;
+}
+
+.venus {
+    position: absolute;
+    width: 110px;
+    height: 110px;
+    background: linear-gradient(to right, #c6ffdd, #fbd786, #f7797d);
+    border-radius: 50%;
+    animation: venus 4s infinite linear;
+}
+
+.earth {
+    position: absolute;
+    width: 140px;
+    height: 140px;
+    background-color: rgb(67, 211, 0);
+    border-radius: 50%;
+    animation: earth 6s infinite linear;
+}
+
+@keyframes sun {
+    from {
+        transform: rotate(0deg);
+    }
+    to {
+        transform: rotate(360deg);
+    }
+}
+
+@keyframes mercury {
+    from {
+        transform: rotate(0deg) translateX(200px);
+    }
+    to {
+        transform: rotate(360deg) translateX(200px);
+    }
+}
+
+@keyframes venus {
+    from {
+        transform: rotate(0deg) translateX(400px);
+    }
+    to {
+        transform: rotate(360deg) translateX(400px);
+    }
+}
+
+@keyframes earth {
+    from {
+        transform: rotate(0deg) translateX(550px);
+    }
+    to {
+        transform: rotate(360deg) translateX(550px);
+    }
+} */
